@@ -91,7 +91,7 @@ export default function Register () {
                     />
                   </FormGroup>
                   <Button className="btn_login auth__btn" type="submit">
-                    Creat Account
+                    Create Account
                   </Button>
                 </Form>
                 <p>
